@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "axios": "^1.2.1",
+    "chalk": "^5.0.1",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "ffmpeg": "^0.0.4",
+    "luxon": "^3.0.3"
+  },
+  "name": "bot-base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P7dro-Bots/Bot-Base.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/P7dro-Bots/Bot-Base/issues"
+  },
+  "homepage": "https://github.com/P7dro-Bots/Bot-Base#readme",
+  "description": "",
+  "type": "module"
+}
